@@ -1,0 +1,20 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "axios": "^1.7.7",
+    "chai": "^5.1.2",
+    "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
